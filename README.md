@@ -11,3 +11,6 @@ As a Data Engineer, there are several tasks that you need to do that is :
 On this repository I have SQL Querry for create Tables. I also have backup database for Staging and my new database DWH_Project.
 
 This is the Architecture of this project
+---
+
+![image](https://github.com/sanvif-dot/FinalTask_IDX-Partners_DE/assets/122470555/98c69538-2c17-48c4-8116-eeb7b922b6cb)
